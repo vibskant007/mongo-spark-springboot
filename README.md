@@ -16,7 +16,7 @@ Example Project which uses spark mongo connector !
 
 
 
-- ``` GET localhost:8080/v1/mongo-spark/count : Count of collection count entries ```
-- ``` GET localhost:8080/v1/mongo-spark/save  : executes sql and write dataset to new collection ```
+- ``` **GET CALL** -> localhost:8080/v1/mongo-spark/count : Count of collection count entries ```
+- ``` **GET CALL** -> localhost:8080/v1/mongo-spark/save  : executes sql and write dataset to new collection ```
 
 
