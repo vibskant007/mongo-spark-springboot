@@ -1,5 +1,5 @@
-# mongo-spark-springboot
-Example Project which uses spark mongo connector !
+# mongo-spark-connector-springboot
+Example Project which uses spark mongo connector to read/aggregate & convert into Spark DataSet/Java RDDs
 
 - Connects to Mongo DB
 - Maps to JavaRDD/DataSet with Schema
