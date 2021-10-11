@@ -3,9 +3,7 @@ Example Project which uses spark mongo connector to read/aggregate & convert int
 
 - Connects to Mongo DB
 - Sample Data imported to Mongo DB : ```wget http://media.mongodb.org/zips.json```
-- Maps to JavaRDD/DataSet with Schema
-- Execute Spark Sql
-- Writes back to Mongo DB
+- Maps to JavaRDD/DataSet with Schema/Execute Spark Sql/Writes back to Mongo DB
 - Uses Java 8 with Spring boot
 
 
