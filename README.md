@@ -8,15 +8,15 @@ Example Project which uses spark mongo connector !
 - Uses Java 8 with Spring boot
 
 
-    Build Project with 
+- Build Project with 
 ``` mvn clean install ```
 
-    Start spring boot application 
+- Start spring boot application 
 ``` java -jar mongo-spark-project-0.0.1-SNAPSHOT.jar```
 
 
 
-``` GET localhost:8080/v1/mongo-spark/count : Count of collection count entries
-    GET localhost:8080/v1/mongo-spark/save  : executes sql and write dataset to new collection ```
+``` GET localhost:8080/v1/mongo-spark/count : Count of collection count entries ```
+``` GET localhost:8080/v1/mongo-spark/save  : executes sql and write dataset to new collection ```
 
 
