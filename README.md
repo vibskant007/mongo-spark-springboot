@@ -8,10 +8,10 @@ Example Project which uses spark mongo connector !
 - Uses Java 8 with Spring boot
 
 
-- Build Project with 
+    Build Project with 
 ``` mvn clean install ```
 
-- Start spring boot application 
+    Start spring boot application 
 ``` java -jar mongo-spark-project-0.0.1-SNAPSHOT.jar```
 
 
