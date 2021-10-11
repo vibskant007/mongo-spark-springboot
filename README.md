@@ -2,6 +2,7 @@
 Example Project which uses spark mongo connector to read/aggregate & convert into Spark DataSet/Java RDDs
 
 - Connects to Mongo DB
+- Sample Data imported to Mongo DB : ```wget http://media.mongodb.org/zips.json```
 - Maps to JavaRDD/DataSet with Schema
 - Execute Spark Sql
 - Writes back to Mongo DB
